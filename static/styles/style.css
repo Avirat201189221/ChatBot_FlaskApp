@@ -429,7 +429,7 @@
     color:white;
   }
   #chatbot_toggle:hover {
-    background: #7d56a5;
+    background: red;
   }
   .line {
     height: 1px;
